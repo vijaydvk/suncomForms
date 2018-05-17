@@ -1,0 +1,3 @@
+Host name:ec2-34-214-216-246.us-west-2.compute.amazonaws.com
+Port: 22
+User name: ec2-user
