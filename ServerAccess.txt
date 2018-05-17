@@ -1,0 +1,4 @@
+Host Name:ec2-34-214-216-246.us-west-2.compute.amazonaws.com
+Port: 3306
+Username: suncommysqladmin
+Password: sunComMySQLAdmin
